@@ -1,4 +1,4 @@
-# my-python-journey
+# My-python-journey
 In this repository, I upload my Python programs to document and showcase my learning journey as I build and improve my skills over time.
 
 ## 16 December 2025
