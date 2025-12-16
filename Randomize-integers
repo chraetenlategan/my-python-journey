@@ -1,6 +1,8 @@
+import time
+
 def get_random_number(ilow,ihigh):
     #Get the Time
-    import time
+    
     seed = str(time.time())
     build = ""
 
@@ -23,7 +25,7 @@ def get_random_number(ilow,ihigh):
 
     #get the random number
     random_number = str(numbers[int(second_built)%len(numbers)])
-    print(f"{random_number}")
+    return random_number
 
 
 
