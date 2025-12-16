@@ -1,0 +1,35 @@
+def get_random_number(ilow,ihigh):
+    #Get the Time
+    import time
+    seed = str(time.time())
+    build = ""
+
+    #Build one large random number
+    for i in range(len(seed)):
+        if seed[i] != '.':
+            build += seed[i]
+
+    #Reverse the random number
+    second_built = ""
+    for j in range(len(build)-1,-1,-1):
+        second_built += build[j]
+
+    #work with a list 
+    numbers = []
+
+    # add into a list'
+    for i in range(ilow,ihigh+1):
+        numbers.append(i)
+
+    #get the random number
+    random_number = str(numbers[int(second_built)%len(numbers)])
+    print(f"{random_number}")
+
+
+
+
+
+
+
+
+
