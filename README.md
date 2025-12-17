@@ -8,6 +8,11 @@ In this repository, I upload my Python programs to document and showcase my lear
 - Built a custom random number function that generates values within given parameters.  
   This already exists in Python, but I made my own for fun.
 
+# Chess Game
+
+- [Functions](chess_functions.py)
+- [Main Chess File](Chess/main.py)
+
 ## 17 December 2025
 
 - Start an entire new project of a chess game in Python.
