@@ -18,3 +18,7 @@ In this repository, I upload my Python programs to document and showcase my lear
 - Start an entire new project of a chess game in Python.
 - Create the board in a 2D List.
 - Display the board from a function.
+
+  ## 18 December 2025
+  - Write function to check move turns
+  - fix a diplay issue
