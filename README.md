@@ -20,5 +20,5 @@ In this repository, I upload my Python programs to document and showcase my lear
 - Display the board from a function.
 
   ## 18 December 2025
-  - Write function to check move turns
-  - fix a diplay issue
+- Write function to check move turns
+- fix a diplay issue
